@@ -1,0 +1,13 @@
+{
+    "name": "discordio",
+    "description": "Discord bot",
+    "version": "0.0.1",
+    "main": "index.js",
+    "scripts": {
+        "test": ""
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GWSoT/discordio.git"
+    }
+}
