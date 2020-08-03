@@ -1,3 +1,6 @@
 node_modules/*
 node_modules
 config.json
+DiscordioDB/DiscordioDB/bin/*
+DiscordioDB/DiscordioDB/obj/*
+DiscordioDB/.vs/*
